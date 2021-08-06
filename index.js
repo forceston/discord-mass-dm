@@ -20,8 +20,8 @@ var argresult = args.join(' ');
 client.on('ready',()=>{
     console.log(' [Bot Name] is online now!');
     let statuses = [
-        " force xd ",
-        " discord.gg/irus ",
+        " status ",
+        " discord.gg/sadist ",
         " </3 " // U can add another
         
     ]
@@ -35,4 +35,4 @@ client.on('ready',()=>{
 
 });
 
-client.login("NTgzNjYzMzgxMDI2OTYzNDg2.XO_o4Q.SFEYjw6F9Z3i3Zu4b3UBEVVFmsQ");
+client.login("token");
